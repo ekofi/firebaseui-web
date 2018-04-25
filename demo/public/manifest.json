@@ -4,7 +4,7 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
-  "lang": "en-US",
+  "lang": "tr-TR",
   "description": "FirebaseUI Demo application.",
   "prefer_related_applications": false,
   "theme_color": "#fff",
